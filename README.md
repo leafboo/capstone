@@ -16,5 +16,10 @@ People can choose to join a single code space for one time use but they can also
 In additional, you can connect your github account here so that you can pull your repositories here and then push it to your repository 
 
 > Note: users can also make a new project and then store it to a new github repository
+<br>
+<br>
+When you are in a codespace, there is a search bar that you can search for your saved code snippets for convenience
+After completing the code, you can create a new repo through the web-app and then save it 
+
 
 
