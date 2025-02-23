@@ -26,6 +26,9 @@ After completing the code, you can create a new repo through the web-app and the
 
 ## 📱 Technologies
 ### Front end
+- Tailwind
+- React (tsx)
+- React Router
 ### Back end
 ### Database
 ### Hosting 
